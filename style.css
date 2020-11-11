@@ -1,0 +1,221 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #ffe100;
+}
+
+body .hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: visible;
+  opacity: 1;
+  -webkit-transition: opacity 2s linear;
+  transition: opacity 2s linear;
+}
+
+body .hero .heroArea {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 3em;
+  height: 50vh;
+  width: 100vw;
+}
+
+body .hero .heroArea .circle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  background-color: #faedb6;
+  border-radius: 100%;
+  z-index: -1;
+}
+
+body .hero .heroArea h1 {
+  padding: 0 0.5em;
+  font-family: 'Roboto', sans-serif;
+  font-size: 4.7em;
+  letter-spacing: -0.05em;
+  line-height: 0.9em;
+  text-align: center;
+  color: #5c4322;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+body .herodos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: visible;
+  opacity: 1;
+  -webkit-transition: visibility 0s 2s, opacity 2s linear;
+  transition: visibility 0s 2s, opacity 2s linear;
+}
+
+body .herodos .heroArea {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 1.5em;
+  height: 20vh;
+  width: 100vw;
+}
+
+body .herodos .heroArea .circle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  background-color: #faedb6;
+  border-radius: 100%;
+  z-index: -1;
+}
+
+body .herodos .heroArea h1 {
+  padding: 0 4em;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+  letter-spacing: -0.05em;
+  line-height: 0.9em;
+  text-align: center;
+  color: #5c4322;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+body .bus {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 30vh;
+  padding-top: 15vh;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .bus .searchCont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 10vh;
+}
+
+body .bus .searchCont .searchBar {
+  height: 3em;
+  width: 80vw;
+  border: 0;
+  border-radius: 5em;
+  background-color: #ffcc00;
+  padding: 2em;
+  font-size: 1em;
+  outline: none;
+}
+
+body .buses {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 15vh;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+
+body .buses .searchCont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .buses .searchCont .searchBar {
+  height: 3em;
+  width: 80vw;
+  border: 0;
+  border-radius: 5em;
+  background-color: #ffcc00;
+  padding: 2em;
+  font-size: 1em;
+  outline: none;
+}
+
+body main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body main .brand-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: white;
+  color: black;
+  font-size: 1.3em;
+  border-radius: 1em;
+  padding: 0.3em 1em;
+  margin-bottom: 0.5em;
+  min-height: 2em;
+  width: 80%;
+}
+
+body main .brand-container .brand-rubro {
+  margin-top: 0.3em;
+  font-size: 0.8em;
+}
+
+body .btnCont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .btn {
+  width: 30%;
+  height: 5vh;
+  margin: 1em;
+}
+/*# sourceMappingURL=style.css.map */

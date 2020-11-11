@@ -1,0 +1,2182 @@
+﻿[
+    {
+        "Brand": "1440 Drugstore",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "47 Street",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "5asec",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Abuela Goye",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Accademia Della Pizza",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "ACSA Food",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Adriana Constantini",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Advanced",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Aerolineas Argentinas",
+        "Provincia": "CABA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Aldo`s",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Alimentari",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Alliance Francaise",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Almundo MLA",
+        "Provincia": "CABA",
+        "Rubro": "Transporte"
+    },
+    {   
+        "Brand": "ALPARGATAS_OFICIAL",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Alpine Skate",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Amarilla Gas",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Amphora",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Andreani",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Antares",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Arcor Center",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Arlequin",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Asteroptica",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Avianca - línea aérea",
+        "Provincia": "GBA",
+        "Rubro": "Transporte"
+    },
+    {
+        "Brand": "Ayres",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "BA Bakery",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "BA Rock School",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Baby Company",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "BAC",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Bacán Barbería",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Bagels & Bagels",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Balloon  City",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Barba Roja",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Besha",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Bierhaus",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Black club palermo",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Blaqué",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Blue Sun Solarium",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Boca Shop",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Bonafide",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Bonita",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Bowen",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Brujo Sports",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Buenos Aires Futbol",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Buenos Aires Golf Club",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Buquebus",
+        "Provincia": "CABA",
+        "Rubro": "Transporte"
+    },
+    {
+        "Brand": "Burger 54",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "C.A. Independiente",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "C.A. River Plate",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "C.A. San Lorenzo",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "C.A. Velez Sarfield",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Cachafaz",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Caffe del Doge",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Cala Pizza",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Camaron Brujo",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Car Wash Exclusive",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Cardón",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Carestino",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Carlitos",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Carnave",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Carnave",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Carrefour",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Carrousel Jugueterías",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Cartasur",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "CD Market",
+        "Provincia": "CABA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "Central de Pasajes",
+        "Provincia": "GBA",
+        "Rubro": "Transporte"
+    },
+    {
+        "Brand": "Cerini",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Cerveceria Pentos",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "ChangoMas",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Chocorisimo",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Cienfuegos",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Cinema La Plata",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Cinepolis",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "City Auto Escuela",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Clamil",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Class Life",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Coco The beauty bar",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Colombraro",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Colonial",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Como en casa",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Compañía de Juguetes",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Concesionarios Nissan",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Confitería La Argentina",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Cono Pizza",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Cooperativa Obrera",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Coppel",
+        "Provincia": "GBA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "Corven",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Coto",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Creciendo",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Cremolatti",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Crisol",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Crocs",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Croque Madame",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "CUBA",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "CUI",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Cumen Cumen",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Curves",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "D-Uñas",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Dabra (Dexter)",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Dandy",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "DASH",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Dashi",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Depi4ever",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Desiderata",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Despencity",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Dietaclub Dr. Cormillor",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Dillon 24 hs",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Disco",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Doble 5",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Dogg",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Don Antonio",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Driver´s",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Driving Range Costa Salguero",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Dunlop Neumaticos",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Easy",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Edeba Futbol",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Educando",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "El Abastecedor",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "El Alamo",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "El Calcio",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "El Club del Manejo",
+        "Provincia": "GBA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "El Ferroviario",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "El fundador",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "El Hornito Santiagueño",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "El podio",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "El Portugués",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "El Sapo Futbol",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "El Trébol Campeonatos",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Elepants",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Enogarage",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Esbell",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Escape Games",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Estancia San Francisco",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Estancias",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Estilo Salud",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Etiqueta Negra",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Eureka",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Fabric Sushi",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Fabrica de Pizzas",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Factory Deportivo",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Falabella",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Fandog",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "FARMA365",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Azul",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Ferrocarril",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Grassi",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia P de Salud",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Pilar",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Santa Ana",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Similia",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Soberania",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacia Vasallo",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacias ABC",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacias Central Oeste",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacias Proteger Salud",
+        "Provincia": "GBA",
+        "Rubro": "Estética y cuidado de la salud"
+    },
+    {
+        "Brand": "Farmacias Punto de Salud",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Farmacias RP",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Fate",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Fava Catering",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Fisk",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Fitter",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Fix Station",
+        "Provincia": "CABA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Franks",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Frapole",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Fravega",
+        "Provincia": "CABA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "Fui a la Pelota",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Full Wash",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Futbol Vieytes",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "FutGol",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Giusto",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "GoFresh",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Gogo",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Gola",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Gourmad",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Green Parrot",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Grid + MarkSports",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Grimoldi",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Growlers",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Grun F.C.",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Grupo Gastronomico Daniel Prieto",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Grupo Gastronomico Negroni",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Grupo2000",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Hard Rock",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Heladeria Munchis",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Heladerias Daniel",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Helados Nigolu",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Hiper Rodo",
+        "Provincia": "CABA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "HiperMay",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Hotel Sheraton",
+        "Provincia": "CABA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Hoteles Wyndham",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "IAC",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Iglu",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Il Gatto",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Il Vero amaretto",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Infinit",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Instituto Argentino de Peluqueria y Belleza",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Instituto CIEC",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Instituto Gato Dumas",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "International House",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Iobella",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Itamae",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Jackie O",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Jazmin Chebar",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "JBG",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Juegos mentales",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Jugueteria Cebra",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Juguetería Osito Azul",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Jugueterías City Kids",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Jugueterías Santa Claus",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Jumbo",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Just for Sport",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "K24",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Kansas",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Kentucky",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Kevingston",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Kinderland",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "KioMax",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Kiosko 724",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Kiosko de empanadas y pizzas",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Kioskos 365",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Kumon",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "La Americana",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Amistad",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Barrera",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "La Bisteca",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Boheme",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Brigada",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Brioche Doree",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Cabrera",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Cantera Club",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "La Casa del Audio",
+        "Provincia": "GBA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "La Esperanza de los Ascurra",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La esperanza de los Ascurra",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Genovesa",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Golosineria",
+        "Provincia": "CABA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "La Mantequeria",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Parolaccia",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Pescadorita",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "La Tienda de Café",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Lacoste",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Ladobueno",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Lanemed",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Las cholas",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Laverap",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Lazaro",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Lepi Boulangerie",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Librerías Matilda",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Llongueras",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "LomasExpress",
+        "Provincia": "GBA",
+        "Rubro": "Transporte"
+    },
+    {
+        "Brand": "Lucciano`s",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Lupita",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Lutz Ferrando Opticas",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "M.A.C. Cosmetics",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "MAC",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Madero Futbol",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Malloys",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Mancini",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Manotas",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Maria Felix",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Market del Barrio",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Markova",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Mauro Sergio",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Medialunas del Abuelo",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Mega Union ACE",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Megasport",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Megatlon",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Mercat Villa Crespo",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Mercedes Benz Concesionarias",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Mi Barrio",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Miami Sun",
+        "Provincia": "GBA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Mimo",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Mondrian",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Monica Brenta",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Montagne",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Morelia",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Morita",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Morph",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Mr Jeff Argentina",
+        "Provincia": "CABA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Mr Miga",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Muaa",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Multiplex",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Musimundo",
+        "Provincia": "CABA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "Muu Lecheria",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Naldo",
+        "Provincia": "GBA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "Nana",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Nanos",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Narrow",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Nespresso",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Neumen",
+        "Provincia": "GBA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Neverland",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Newman",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Nicky Harrison",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Nike",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Ninina",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Norauto",
+        "Provincia": "GBA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "NP Torneos",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Nucha",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Oink Regalos Originals",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Open Candy",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "OpenFarma",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Osaka",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Oslo Cerveceria",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Oui Oui",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Paintball Triplex",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Palladio Hotel",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Parque de la Costa",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Parrilla Don Julio",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Paru Inka Sushi",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Paruolo",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Paseo la Plaza",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "PasionEventos",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Pasta Ramos",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Perramus",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Pertutti",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Peugeot Lounge",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "PF Chang",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Pfortner",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Piccadely",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Pinturerías MM",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Pirka Stone",
+        "Provincia": "GBA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Pizza Piola",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Pizza Vegana",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Planeta BB",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Plataforma 10",
+        "Provincia": "CABA",
+        "Rubro": "Transporte"
+    },
+    {
+        "Brand": "Pole Position",
+        "Provincia": "GBA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Pollo Trak",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Pony Line",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Portsaid",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Potigian",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Printhouse",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Prototype",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Prüne",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Pudo Smart Lockers",
+        "Provincia": "CABA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Puma",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Pumba la Lumba",
+        "Provincia": "GBA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Queen Fit",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Quem Tienda de Frio",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Queseria Luz Azul",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Quiero Muzza",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Quilmes",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Racing Club",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Renault Minuto",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Rincon Norteño",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Rock and Ribs",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "RockCycle",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Romario",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Roncole",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Rosa Negra",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Rotterdam",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "RushBA",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Sacoa",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Salguero Futbol",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Salve Regina",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Samsung",
+        "Provincia": "CABA",
+        "Rubro": "Electro y Electrónicos"
+    },
+    {
+        "Brand": "San Andrés",
+        "Provincia": "GBA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Sandwicheria Lo de Mario",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Santorini Turismo",
+        "Provincia": "GBA",
+        "Rubro": "Transporte"
+    },
+    {
+        "Brand": "Scombro",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Sei Tu",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Selú",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Seven Sport",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Sheldon",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Shop Gallery",
+        "Provincia": "CABA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Showcase",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Sipan",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Skin Factory",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Sofse (Trenes)",
+        "Provincia": "GBA",
+        "Rubro": "Transporte"
+    },
+    {
+        "Brand": "Solo Deportes",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Solo Empanadas",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "SommierCenter",
+        "Provincia": "GBA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Sport Pro",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Sportclub",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "SportLine",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Stamboulian",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "StockCenter",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Style Watch",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Subway",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Supermercado DIA",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Supermercado Zeta",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Supermercados Eco",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Sushi Club",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Swaroski",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Swatch",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Swiss Medical",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Sybil Vane",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Taco Box",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Takala Jugueterías",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "TdeA Futbol",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Thames Futbol",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "The Candle Shop",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "The Coffee Store",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "The Family Car Wash",
+        "Provincia": "GBA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "The Rock Academy",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Tiendas Gourmet",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Tierra de Nadie",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Tio Mario Juguetería",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Todo Membranas",
+        "Provincia": "GBA",
+        "Rubro": "Others"
+    },
+    {
+        "Brand": "Tomassa",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Tonel Privado",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Torneo Pressing",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Torneos Indiana",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Tostado",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Toto´s",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Tres60º Futbol",
+        "Provincia": "GBA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Trixie",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Tropea",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Tuluka",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "UCA",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "UCES",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Uggis",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Universidad de Belgrano",
+        "Provincia": "CABA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Universo Garden Angels",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "Univesidad Siglo 21",
+        "Provincia": "GBA",
+        "Rubro": "Educación"
+    },
+    {
+        "Brand": "Urban Six",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Vacalin",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Valenti",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Vanshelato",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "VER",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Via Uno",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Via Varese",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Viamo",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "ViPeluquerías",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    },
+    {
+        "Brand": "VOLKSWAGEN ARGENTINA S A",
+        "Provincia": "CABA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Volskwagen",
+        "Provincia": "GBA",
+        "Rubro": "Autos, Motos & Nautica"
+    },
+    {
+        "Brand": "Vorterix",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "VZ",
+        "Provincia": "CABA",
+        "Rubro": "Home & Deco"
+    },
+    {
+        "Brand": "Walmart",
+        "Provincia": "GBA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Wanama",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Whoopies",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Winery",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "XBody",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "XL. Extra Large",
+        "Provincia": "CABA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Ya Empanadas!",
+        "Provincia": "CABA",
+        "Rubro": "Alimentos y Bebidas"
+    },
+    {
+        "Brand": "Yenny",
+        "Provincia": "CABA",
+        "Rubro": "Librerías y Jugueterías"
+    },
+    {
+        "Brand": "Yoga OM",
+        "Provincia": "CABA",
+        "Rubro": "Entretenimiento"
+    },
+    {
+        "Brand": "Zhoue",
+        "Provincia": "GBA",
+        "Rubro": "Apparel"
+    },
+    {
+        "Brand": "Zona Farma",
+        "Provincia": "CABA",
+        "Rubro": "Estética y Cuidado de la Salud"
+    }
+]
